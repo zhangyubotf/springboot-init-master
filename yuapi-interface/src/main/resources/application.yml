@@ -1,0 +1,9 @@
+
+server:
+  port: 8023
+  servlet:
+    context-path: /api
+yupi:
+  client:
+    assess-key: yupi
+    secrete-key: abcdefg
